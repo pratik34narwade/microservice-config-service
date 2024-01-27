@@ -1,3 +1,6 @@
+spring:
+ application:
+  name: PRATIK-SERVICE
 eureka:
   instance:
     ip-address: true
